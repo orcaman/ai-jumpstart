@@ -1,0 +1,6 @@
+openai==0.27.6
+langchain==0.0.173
+python-dotenv==1.0.0
+chromadb==0.3.23
+tiktoken==0.3.3
+wikipedia==1.4.0
