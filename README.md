@@ -17,7 +17,7 @@ This example demonstrates how to enable GPT to answer questions about Wikipedia 
 ### [GPT Scraper](./examples/gpt_scraper/README.md)
 This example shows how to use OpenAI's vanilla Completion API to extract data points from HTML content. The demonstration focuses on the usage of a system prompt role and a user prompt role.
 
-### [Pandas Agent Expense Analysis](examples/pandas_agent_data_analysis/README.md)
+### [Pandas Agent Data Analysis](examples/pandas_agent_data_analysis/README.md)
 This example shows how to use the LangChain pandas agent to perform data analysis on data read from a CSV file. This goes to show how LLMs can be used to orchestrate calculations using agents.
 
 ## License

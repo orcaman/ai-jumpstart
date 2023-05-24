@@ -27,6 +27,10 @@ answer:  Some metrics of labor market health include the unemployment rate, the 
 ```
 
 ```
+python main.py data/us_gov_budget.pdf "what the hell is BBEDCA?"
+```
+
+```
 -----------------
 question: what the hell is BBEDCA?
 answer:  BBEDCA stands for the Balanced Budget and Emergency Deficit Control Act of 1985.
